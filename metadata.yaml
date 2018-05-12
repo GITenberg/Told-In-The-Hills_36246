@@ -1,0 +1,30 @@
+_repo: Told-In-The-Hills_36246
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ryan, Marah Ellis
+    birthdate: 1866
+    deathdate: 1934
+    gutenberg_agent_id: '32709'
+    url: http://www.gutenberg.org/2009/agents/32709
+description: ''
+gutenberg_issued: '2011-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36246'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Race relations -- Fiction'
+- !lcsh 'Montana -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Frontier and pioneer life -- West (U.S.) -- Fiction'
+title: 'Told in the Hills: A Novel'
+url: http://www.gutenberg.org/ebooks/36246
